@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **saadberry29@gmail.com**
 
-- 🤔 Fun fact **I make digital art when i'm not coding**
+- ❗ Fun fact: **I make digital art when i'm not coding. You can find my portfolio here: https://www.behance.net/saadberry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
