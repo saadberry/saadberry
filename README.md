@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Saad!</h1>
+<h1 align="center">Hi there 👋, I'm Saad!</h1>
 <h3 align="center">A curious fullstack developer, who is always trying to challenge onself</h3>
 
 - 🔭 I’m currently working on **a Degree Verification System that uses Blockchain**
 
 - 🌱 I’m currently learning **Solidity, Ether.js**
 
-- 👯 I’m looking to collaborate on **MERN/Web 3.0 projects**
+- 👯 I’m looking to collaborate on **MERN & Web 3.0 projects**
 
 - 📝 I write articles on [https://medium.com/@saadberry](https://medium.com/@saadberry)
 
 - 💬 Ask me about **Node.js, React.js, Python, Typescript**
 
-- 📫 How to reach me **saadberry29@gmail.com**
+- 📫 How to reach me: **saadberry29@gmail.com**
 
-- ⚡ Fun fact **I make digital art when i'm not coding**
+- 🤔 Fun fact **I make digital art when i'm not coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
