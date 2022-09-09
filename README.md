@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Saad!</h1>
 <h3 align="center">A curious fullstack developer, who is always trying to challenge onself</h3>
 
-- 🔭 I’m currently working on **a Degree Verification System that uses Blockchain**
+- 👨‍💻 I’m currently working on **a Degree Verification System that uses Blockchain**
 
 - 🌱 I’m currently learning **Solidity, Ether.js**
 
-- 👯 I’m looking to collaborate on **MERN & Web 3.0 projects**
+- 🤝 I’m looking to collaborate on **MERN & Web 3.0 projects**
 
 - 📝 I write articles on [https://medium.com/@saadberry](https://medium.com/@saadberry)
 
