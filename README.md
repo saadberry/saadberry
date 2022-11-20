@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Saad!</h1>
-<h3 align="center">A curious fullstack developer, who is always trying to challenge onself</h3>
+<h3 align="center">A fullstack developer, who is always trying to challenge onself</h3>
 
 - 👨‍💻 I’m currently working on **a Degree Verification System that uses Blockchain**
 
