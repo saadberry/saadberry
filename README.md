@@ -9,8 +9,6 @@
 
 - 📫 How to reach me: **saadberry29@gmail.com**
 
-- ❗ Fun fact: **I make digital art when i'm not coding. You can find my portfolio here: https://www.behance.net/saadberry**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saadberry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadberry" height="30" width="40" /></a>
