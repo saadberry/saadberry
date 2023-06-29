@@ -7,8 +7,6 @@
 
 - 📝 I write articles on [https://medium.com/@saadberry](https://medium.com/@saadberry)
 
-- 💬 Ask me about **Node.js, React.js, Python, Typescript**
-
 - 📫 How to reach me: **saadberry29@gmail.com**
 
 - ❗ Fun fact: **I make digital art when i'm not coding. You can find my portfolio here: https://www.behance.net/saadberry**
