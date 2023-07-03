@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Saad!</h1>
-<h3 align="center">An avid gamer, fried chicken enthusiast and oh - I'm also a Software Engineer </h3>
+<h3 align="center">An avid gamer, digital artist and oh - I'm also a Software Engineer </h3>
 
 - 💡 Check out VeriFy, my Final Year Project - which is a **a Degree Verification System that uses Blockchain**: https://github.com/saadberry/degree-verifier
 
